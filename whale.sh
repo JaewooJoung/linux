@@ -1,1 +1,1 @@
-yay -S yay -S naver-whale-stable --noconfirm
+yay -S naver-whale-stable --noconfirm
