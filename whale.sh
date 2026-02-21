@@ -1,1 +1,1 @@
-yay -S naver-whale-stable --noconfirm
+yay -S docker-desktop --noconfirm
