@@ -1,1 +1,1 @@
-yay -S whatsapp-for-linux-bin --noconfirm
+yay -S elecwhat-bin  --noconfirm 
